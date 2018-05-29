@@ -1,2 +1,2 @@
 # Game
-Games that i have wrote in python, check it out !!
+Games that i have coded in python, check it out !!
